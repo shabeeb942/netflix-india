@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+.content{
+    min-height: 100vh;
+}
+a{
+    text-decoration: none;
+}
+li a{
+    text-decoration: none;
+    color: gray;
+}
+.bg{
+min-height: 50vh;
+}
+.button a{
+    text-decoration: none;
+    
+}
+.line{
+    width: 100%;
+    background-color: grey;
+    height: 3px;
+}
+
